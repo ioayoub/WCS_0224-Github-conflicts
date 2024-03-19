@@ -1,1 +1,1 @@
-C'est un conflit
+Ceci est un exemple de conflit. j'ai corrigé les erreurs.C'est un conflit
